@@ -1,3 +1,7 @@
+![example workflow](https://github.com/lekseff/Chat/actions/workflows/deploy.yml/badge.svg)
+
+[GitHub Pages](https://lekseff.github.io/Chat/)
+
 ### Callback Chat* (задача со звёздочкой)
                                  
 Важно: эта задача не является обязательной. Её (не)выполнение не влияет на получение зачёта по ДЗ.
